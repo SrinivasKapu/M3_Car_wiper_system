@@ -2,6 +2,8 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3fb93f6a71bb475ca7b9d3e6496d9cfb)](https://www.codacy.com/gh/SrinivasKapu/M3_Car_wiper_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SrinivasKapu/M3_Car_wiper_system&amp;utm_campaign=Badge_Grade)
 
+[![Bulid CI - windows](https://github.com/SrinivasKapu/M3_Car_wiper_system/actions/workflows/Windows.yml/badge.svg)](https://github.com/SrinivasKapu/M3_Car_wiper_system/actions/workflows/Windows.yml)
+
 
 
 ## Folder Structure
