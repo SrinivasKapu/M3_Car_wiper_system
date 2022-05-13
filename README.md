@@ -4,6 +4,8 @@
 
 [![Bulid CI - windows](https://github.com/SrinivasKapu/M3_Car_wiper_system/actions/workflows/Windows.yml/badge.svg)](https://github.com/SrinivasKapu/M3_Car_wiper_system/actions/workflows/Windows.yml)
 
+[![Build_CI - Linux](https://github.com/SrinivasKapu/M3_Car_wiper_system/actions/workflows/Linux.yml/badge.svg)](https://github.com/SrinivasKapu/M3_Car_wiper_system/actions/workflows/Linux.yml)
+
 
 
 ## Folder Structure
