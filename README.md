@@ -13,7 +13,8 @@ Folder             | Description
 6_Output         | Contains output images
 
 
-![CAR_WIPER](https://user-images.githubusercontent.com/101330247/168215624-691894ea-7105-47b0-be15-d85c35b5c4b9.png)
+![car-wiper](https://user-images.githubusercontent.com/101330247/168220346-ae172672-2f67-4c92-b75e-38e1a6a1742e.jpg)
+
 
 
 
