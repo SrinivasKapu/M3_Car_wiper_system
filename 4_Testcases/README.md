@@ -4,7 +4,7 @@
 
 
 TEST ID            | OBJECTIVE     | INPUT DATA| EXPECTED OUTPUT|  ACTUAL OUTPUT | STATUS
--------------------| -----------------------------------------
+-------------------| -----------------|------------------------|--------------|--------------|
 TP1      | Turn on ignition| Turn on the compailer| LED blink | LED blink | PASS
 TP2      | Turn on wiper system| press blue pushbutton in QEMU| show button pressed in console | show button pressed in console | PASS
 TP3      |    |   | Blink three LED's with specific duration | Blink three LED's with specific duration | FAIL
