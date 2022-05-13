@@ -13,3 +13,5 @@ The aim of the project is to design a wiper control system which automatically c
 
 The main objective of this project is through ARM microcontroller to design a wiper control system. The project mainly insists on controlling the motion of wiper based on frequency and time period (in seconds).
 
+
+(https://user-images.githubusercontent.com/101330247/168211610-dd269b60-3810-4568-b089-e41143cb0f77.png)
