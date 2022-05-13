@@ -70,7 +70,7 @@ b) Due to so much ice or snow on windshield may cause the wipers to get jammed a
 c) Accident may occur due to fault in wiper system.
 
 
-_High Level Requirements_
+### High Level Requirements
 | RID | Description | Status |
 | -- | ----------- | ------ |
 | HLR1 | EMBEDDED C LANGUAGE | IMPLEMENTED |
@@ -80,5 +80,17 @@ _High Level Requirements_
 | HLR5 | QEMU  | IMPLEMENTED |
 | HLR6 | HARDDISK | IMPLEMENTED |
 | HLR7 | RAM 4GB | IMPLEMENTED |
+
+
+### Low Level Requirements
+| RID | Description | Status |
+| -- | ----------- | ------ |
+| LLR1 | RED LED ON | IMPLEMENTED |
+| LLR2 | BLUE LED FREQUENCY 1HZ | IMPLEMENTED |
+| LLR3 | GREEN LED FREQUENCY 4HZ | IMPLEMENTED |
+| LLR4 | ORANGE LED FREQUENCY 8HZ | IMPLEMENTED |
+| LLR5 | RED LED OFF  | IMPLEMENTED |
+
+
 
 
