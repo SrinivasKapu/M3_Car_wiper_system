@@ -68,3 +68,17 @@ a) Time interval may vary thereby it cause some problem on wiper system.
 b) Due to so much ice or snow on windshield may cause the wipers to get jammed and cause circuit overloading.
 
 c) Accident may occur due to fault in wiper system.
+
+
+_High Level Requirements_
+| RID | Description | Status |
+| -- | ----------- | ------ |
+| HLR1 | EMBEDDED C LANGUAGE | IMPLEMENTED |
+| HLR2 | OS WINDOWS | IMPLEMENTED |
+| HLR3 | STM32CUBEIDE | IMPLEMENTED |
+| HLR4 | CYGWIN | IMPLEMENTED |
+| HLR5 | QEMU  | IMPLEMENTED |
+| HLR6 | HARDDISK | IMPLEMENTED |
+| HLR7 | RAM 4GB | IMPLEMENTED |
+
+
