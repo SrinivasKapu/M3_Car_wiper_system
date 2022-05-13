@@ -5,7 +5,7 @@
 * STM32CUBEIDE
 * CYGWIN
 * QEMU
-COMPONENTS USED IN PROJECT:
+### COMPONENTS USED IN PROJECT:
 * STM32F407G-DISC1
 STM32F407 series of microcontrollers are high-performance MCUs designed for medical, industrial and consumer applications. It is based on ARM Cortex-M4 and offers up to 168MHz. The STM32F407VGT6 is the onboard chip which comes in a 100-pin LQFP package.
 
